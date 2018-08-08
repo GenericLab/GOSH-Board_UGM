@@ -1,4 +1,4 @@
 summary: The key feature of the new 8Bit Mixtape is the easiness of uploading new codes using an audio communication protocol, means just playing a .wav sound file from your computer/smart phone (or walkman). A specific bootloader (TinyAudioBoot) has to be installed on the chip to be able to do so. In addition it has basic USB capability to be used as a HID-Keyboard and type into your computer
 site: https://www.hackteria.org/wiki/GOSH_Workshop_at_UGM,_2018
-bom: bom.tsv
+bom: https://github.com/GenericLab/GOSH-Board_UGM/blob/master/bom.tsv
 color: red
